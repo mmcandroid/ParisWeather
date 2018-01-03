@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ParisWeather</string>
+    <string name="details">Details</string>
+    <string name="cloudiness">Cloudiness    %s</string>
+    <string name="humidity">Humidity    %s</string>
+    <string name="pressure">Pressure    %s hPa</string>
+    <string name="wind">Wind Speed    %s</string>
+    <string name="min">Min %d°</string>
+    <string name="max">Min %d°</string>
+    <string name="error_data">Failed to get data</string>
+    <string name="rain_volume">Rain volume   %s mm</string>
+    <string name="snow_volume">Snow volume   %s</string>
+    <string name="screen_home_title">Five Day Forcast</string>
+    <string name="base_url">http://api.openweathermap.org/data/2.5/forecast/</string>
+    <string name="temp_format">%d°</string>
+</resources>
